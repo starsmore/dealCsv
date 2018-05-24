@@ -1,0 +1,20 @@
+ID,BarCode,First Name,Last Name,Phone,Email,Title,Division
+0001,ABCD1,John,Aaaa,123456701,a1@b.c1,engineer,San Francisco
+0002,ABCD2,Tom,Lin,123456702,a1@b.c2,engineer,San Francisco
+0003,ABCD3,Xym,YYY,123456703,a1@b.c3,engineer,San Francisco
+0004,ABCD4,Daly,Ajan,123456704,a1@b.c4,engineer,San Francisco
+0005,ABCD5,Jao,Tei,123456705,a1@b.c5,engineer,San Francisco
+0006,ABCD6,Adam,Ano,123456706,a1@b.c6,manager,San Francisco
+0007,ABCD7,Jason ,To,123456707,a1@b.c7,manager,San Francisco
+0008,ABCD8,Jane,Ki,123456708,a1@b.c8,sectary,Denver
+0009,ABCD9,John,Ju,123456709,a1@b.c9,CFO,Denver
+0010,ABCD10,Mini,BU,123456710,a1@b.c10,Marketing specialist,Denver
+0011,ABCD11,Yiki,Ji,123456711,a1@b.c11,Technician,Denver
+0012,ABCD12,Daki,ad,123456712,a1@b.c12,Accountant,Denver
+0013,ABCD13,Yiki,adf,123456713,a1@b.c13,Accountant,Denver
+0014,ABCD14,Yaoji,xzc,123456714,a1@b.c14,Designer,Denver
+0015,ABCD15,Jiju,xze,123456715,a1@b.c15,Designer,Denver
+0016,ABCD16,Bilo,dfa,123456716,a1@b.c16,CTO,Seatle
+0017,ABCD17,asde ,fgs,123456717,a1@b.c17,CEO,Seatle
+0018,ABCD18,Kate,sdf,123456718,a1@b.c18,Admin Assistant,Seatle
+0030,ABCD18,Kate,sdf,123456718,a1@b.c18,Admin Assistant,Seatle
